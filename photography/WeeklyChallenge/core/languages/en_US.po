@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GT3Themes WP\n"
+"POT-Creation-Date: 2015-12-21 09:49+0200\n"
+"PO-Revision-Date: 2015-12-21 09:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: GT3Themes <help@gt3themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "404"
+msgstr ""
+
+#: 404.php:6
+msgid "OOPS! NOT FOUND!"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"It looks like nothing was found at this location. Maybe start from the "
+"homepage or do a quick search?"
+msgstr ""
+
+#: 404.php:9
+msgid "Type to Search..."
+msgstr ""
+
+#: 404.php:10
+msgid "search the site"
+msgstr ""
+
+#: bloglisting.php:64 search.php:66 single.php:64
+msgid "by"
+msgstr ""
+
+#: bloglisting.php:66 single.php:66
+msgid "in"
+msgstr ""
+
+#: bloglisting.php:68 core/widgets/posts.php:48 search.php:68
+msgid "comments"
+msgstr ""
+
+#: bloglisting.php:83 bloglisting.php:88 bloglisting.php:90
+msgid "Continue Reading"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24 page-portfolio-shifting.php:128 single-port.php:137
+#: single.php:68
+msgid "Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Name *"
+msgstr ""
+
+#: comments.php:55
+msgid "Email *"
+msgstr ""
+
+#: comments.php:56
+msgid "URL"
+msgstr ""
+
+#: comments.php:58
+msgid "Message..."
+msgstr ""
+
+#: comments.php:61
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Leave a Comment!"
+msgstr ""
+
+#: comments.php:63
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:64
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:64
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:69
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: core/admin/options.php:99
+msgid "Copyright"
+msgstr ""
+
+#: core/admin/options.php:104
+msgid "Phone Number"
+msgstr ""
+
+#: core/admin/options.php:109
+msgid "Contact Address"
+msgstr ""
+
+#: core/admin/options.php:114
+msgid "Contact Email"
+msgstr ""
+
+#: core/admin/options.php:132
+msgid "Import demo content"
+msgstr ""
+
+#: core/admin/options.php:473
+msgid "Trackbacks and Pingbacks"
+msgstr ""
+
+#: core/admin/options.php:478
+msgid "Disabled"
+msgstr ""
+
+#: core/admin/options.php:479
+msgid "Enabled"
+msgstr ""
+
+#: core/admin/options.php:483
+msgid "WooCommerce Default Listing"
+msgstr ""
+
+#: core/admin/options.php:488
+msgid "Simple"
+msgstr ""
+
+#: core/admin/options.php:489
+msgid "Fullwidth"
+msgstr ""
+
+#: core/admin/options.php:500
+msgid "Socials"
+msgstr ""
+
+#: core/admin/options.php:506
+msgid "Facebook"
+msgstr ""
+
+#: core/admin/options.php:512
+msgid "Flickr"
+msgstr ""
+
+#: core/admin/options.php:518
+msgid "Tumblr"
+msgstr ""
+
+#: core/admin/options.php:524
+msgid "Instagram"
+msgstr ""
+
+#: core/admin/options.php:530
+msgid "Twitter"
+msgstr ""
+
+#: core/admin/options.php:537
+msgid "Youtube"
+msgstr ""
+
+#: core/admin/options.php:543
+msgid "Dribbble"
+msgstr ""
+
+#: core/admin/options.php:549
+msgid "Google+"
+msgstr ""
+
+#: core/admin/options.php:555
+msgid "Vimeo"
+msgstr ""
+
+#: core/admin/options.php:561
+msgid "Delicious"
+msgstr ""
+
+#: core/admin/options.php:567
+msgid "Linked In"
+msgstr ""
+
+#: core/admin/options.php:573
+msgid "Pinterest"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:88
+msgid " comments"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:95
+msgid "Read more"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:222
+msgid "Time spent"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:355
+msgid "No Images"
+msgstr ""
+
+#: core/registrator/misc.php:49
+msgid "Custom Sidebars"
+msgstr ""
+
+#: core/registrator/misc.php:98
+msgid "Custom Layout"
+msgstr ""
+
+#: core/registrator/sidebars.php:9
+msgid ""
+"Add the widgets appearance for Custom Sidebar. Drag the widget from the "
+"available list on the left, configure widgets options and click Save button. "
+"Select the sidebar on the posts or pages in just few clicks."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:161 core/tgm/gt3-tgm.php:40
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:162 core/tgm/gt3-tgm.php:41
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:163 core/tgm/gt3-tgm.php:42
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:175 core/tgm/gt3-tgm.php:54
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:177
+#: core/tgm/class-tgm-plugin-activation.php:1956 core/tgm/gt3-tgm.php:55
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:532
+#: core/tgm/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1167
+#: core/tgm/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1170
+#: core/tgm/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1288
+#: core/tgm/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1312
+#: core/tgm/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2070
+#: core/tgm/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2070
+#: core/tgm/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/gt3-tgm.php:43
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/gt3-tgm.php:56
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/widgets/posts.php:26 page-albums-home.php:93 page-center.php:18
+#: page-half.php:28 page-slider-content.php:151 page.php:37
+#: single-port.php:142 single.php:73
+msgid "Read more!"
+msgstr ""
+
+#: core/xml-importer/importer.php:134 core/xml-importer/importer.php:143
+#: core/xml-importer/importer.php:194 core/xml-importer/importer.php:202
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: core/xml-importer/importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/xml-importer/importer.php:178
+msgid "All done."
+msgstr ""
+
+#: core/xml-importer/importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: core/xml-importer/importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: core/xml-importer/importer.php:210
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: core/xml-importer/importer.php:235
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: core/xml-importer/importer.php:261
+msgid "Assign Authors"
+msgstr ""
+
+#: core/xml-importer/importer.php:262
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: core/xml-importer/importer.php:264
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: core/xml-importer/importer.php:274
+msgid "Import Attachments"
+msgstr ""
+
+#: core/xml-importer/importer.php:277
+msgid "Download and import file attachments"
+msgstr ""
+
+#: core/xml-importer/importer.php:294
+msgid "Import author:"
+msgstr ""
+
+#: core/xml-importer/importer.php:305
+msgid "or create new user with login name:"
+msgstr ""
+
+#: core/xml-importer/importer.php:308
+msgid "as a new user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:316
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:318
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:319
+msgid "- Select -"
+msgstr ""
+
+#: core/xml-importer/importer.php:369
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: core/xml-importer/importer.php:418
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:456
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:500 core/xml-importer/importer.php:626
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:522
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:543
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: core/xml-importer/importer.php:598
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: core/xml-importer/importer.php:758
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: core/xml-importer/importer.php:765
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:828
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: core/xml-importer/importer.php:841
+msgid "Invalid file type"
+msgstr ""
+
+#: core/xml-importer/importer.php:885
+msgid "Remote server did not respond"
+msgstr ""
+
+#: core/xml-importer/importer.php:891
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: core/xml-importer/importer.php:898
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: core/xml-importer/importer.php:903
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: core/xml-importer/importer.php:909
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:1007
+msgid "Import WordPress"
+msgstr ""
+
+#: core/xml-importer/importer.php:1014
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: core/xml-importer/importer.php:1029
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: core/xml-importer/importer.php:1030
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: core/xml-importer/parsers.php:42 core/xml-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: core/xml-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: core/xml-importer/parsers.php:67 core/xml-importer/parsers.php:72
+#: core/xml-importer/parsers.php:262 core/xml-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: functions.php:155
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:163
+msgid "Reply"
+msgstr ""
+
+#: functions.php:396 functions.php:444 functions.php:552
+msgid "All"
+msgstr ""
+
+#: functions.php:469 functions.php:525 functions.php:576
+msgid "View all post filed under"
+msgstr ""
+
+#: functions.php:500
+msgid "All Works"
+msgstr ""
+
+#: functions.php:800
+msgid "To view it please enter your password"
+msgstr ""
+
+#: functions.php:871
+msgid "Home"
+msgstr ""
+
+#: header-fullscreen.php:54 header.php:54
+msgid "View your shopping cart"
+msgstr ""
+
+#: image.php:70
+#, php-format
+msgid "Published on %2$s in %5$s"
+msgstr ""
+
+#: image.php:88
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:93
+msgid "Edit"
+msgstr ""
+
+#: image.php:100
+msgid "Pages:"
+msgstr ""
+
+#: image.php:107
+msgid "Back"
+msgstr ""
+
+#: page-albums-flow.php:131
+msgid "pictures"
+msgstr ""
+
+#: page-albums-flow.php:206 page-albums-home.php:240 page-albums.php:191
+#: page-background.php:153 page-center.php:69 page-countdown.php:149
+#: page-fullscreen-slider.php:149 page-gallery-kenburns.php:69
+#: page-gallery-ribbon.php:107 page-half.php:69 page-landing.php:69
+#: page-landing1.php:56 page-landing2.php:92 page-portfolio-listing.php:303
+#: page-portfolio-shifting.php:373 page-slider-content.php:190
+#: page-strip.php:87 page.php:80 single-gallery.php:246 single-port.php:267
+#: single.php:198 woocommerce.php:85
+msgid "This Content is Password Protected"
+msgstr ""
+
+#: page-center.php:19 page-half.php:29 page-slider-content.php:152 page.php:38
+#: single-port.php:146 single.php:77 woocommerce.php:48 woocommerce.php:76
+msgid "Pages"
+msgstr ""
+
+#: page-countdown.php:95
+msgid "Date has not been entered"
+msgstr ""
+
+#: page-portfolio-listing.php:212
+msgid "Load More"
+msgstr ""
+
+#: search.php:75
+msgid "Read More"
+msgstr ""
+
+#: search.php:86 search.php:101
+msgid "Not Found!"
+msgstr ""
+
+#: search.php:93 search.php:108 searchform.php:2
+msgid "Search the site..."
+msgstr ""
+
+#: single-port.php:157 single.php:88
+msgid "Share"
+msgstr ""
+
+#: single-port.php:183 single.php:114
+msgid "Previous Post"
+msgstr ""
+
+#: single-port.php:184 single.php:115
+msgid "Next Post"
+msgstr ""
+
+#: woocommerce.php:26
+msgid "Shop"
+msgstr ""
+
+#: woocommerce.php:45 woocommerce.php:72
+msgid "Sorting"
+msgstr ""
